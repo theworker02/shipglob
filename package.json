@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/shipglob",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Ship and reshape glob text streams with deterministic transforms.",
+  "bin": {
+    "shipglob": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/shipglob.git"
+  },
+  "homepage": "https://theworker02.github.io/shipglob/",
+  "keywords": [
+    "ship",
+    "glob",
+    "text",
+    "cli",
+    "toolkit"
+  ]
+}
